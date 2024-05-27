@@ -32,7 +32,7 @@ namespace Play.Inventory.Service
             {
                 client.BaseAddress = new Uri("https://localhost:5001");
             })
-            .AddPolicyHandler(Policy.TimeoutAsync<HttpResponseMessage>(2));
+            .AddPolicyHandler(Policy.TimeoutAsync<HttpResponseMessage>(1));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
