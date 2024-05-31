@@ -50,20 +50,20 @@ namespace Play.Inventory.Service
                 }
             ))
             .AddTransientHttpErrorPolicy(builder => builder.Or<TimeoutRejectedException>().CircuitBreakerAsync(
-               3,
-            TimeSpan.FromSeconds(15),
-               onBreak: (outcome, timespan) =>
-               {
-                   var serviceProvider = services.BuildServiceProvider();
-                   serviceProvider.GetService<ILogger<CatalogClient>>()?
-                   .LogWarning($"Opening the circuit for {timespan.TotalSeconds} seconds...");
-               },
-               onReset: () =>
-               {
-                   var serviceProvider = services.BuildServiceProvider();
-                   serviceProvider.GetService<ILogger<CatalogClient>>()?
-                   .LogWarning($"Closing the circuit");
-               }
+                3,
+                TimeSpan.FromSeconds(15),
+                onBreak: (outcome, timespan) =>
+                {
+                    var serviceProvider = services.BuildServiceProvider();
+                    serviceProvider.GetService<ILogger<CatalogClient>>()?
+                    .LogWarning($"Opening the circuit for {timespan.TotalSeconds} seconds...");
+                },
+                onReset: () =>
+                {
+                    var serviceProvider = services.BuildServiceProvider();
+                    serviceProvider.GetService<ILogger<CatalogClient>>()?
+                    .LogWarning($"Closing the circuit...");
+                }
             ))
             .AddPolicyHandler(Policy.TimeoutAsync<HttpResponseMessage>(1));
 
