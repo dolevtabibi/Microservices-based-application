@@ -11,5 +11,17 @@ services:
     volumes:
       - mongodbdata:/data/db
 
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    ports:
+      - 5672:5672 #used by the services to publish messages to, or to consume messages from rabbitMQ
+      - 15672:15672 #used to be able to go to the rabbitMQ portal
+    volumes:
+      - rabbitmqdata:/var/lib/rabbitmq
+    hostname: rabbitmq #to store the value in the same place and not random name each time
+    
+
 volumes:
   mongodbdata:
+  rabbitmqdata:
