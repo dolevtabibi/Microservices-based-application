@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U3Hq6jiu8dut9lkgck9qbf/6a+6KykEfdDtLM9h09c1gfPWPsSgZ1btE8hf5YNjzGOgxpdeO+NuF3pqfwrAU2w==",
+  "dgSpecHash": "M6VBQA/5z1Xtg93GlPWmaMkhCfBc1FbbOIB4/MqBaLJYdzyp2uY28RoQYxKV2jcMlqSlW9GoZW3ar/tuqgIjEg==",
   "success": true,
   "projectFilePath": "D:\\projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\dolev\\.nuget\\packages\\mongodb.driver\\2.25.0\\mongodb.driver.2.25.0.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\mongodb.driver.core\\2.25.0\\mongodb.driver.core.2.25.0.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\mongodb.libmongocrypt\\1.8.2\\mongodb.libmongocrypt.1.8.2.nupkg.sha512",
-    "C:\\Users\\dolev\\.nuget\\packages\\play.common\\1.0.0\\play.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\dolev\\.nuget\\packages\\play.common\\1.0.1\\play.common.1.0.1.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
