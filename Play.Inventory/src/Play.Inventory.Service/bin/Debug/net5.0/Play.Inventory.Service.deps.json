@@ -35,7 +35,7 @@
         "dependencies": {
           "Microsoft.Extensions.Http.Polly": "8.0.5",
           "Play.Catalog.Contracts": "1.0.0",
-          "Play.Common": "1.0.1",
+          "Play.Common": "1.0.2",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -779,7 +779,7 @@
           "lib/net5.0/Play.Catalog.Contracts.dll": {}
         }
       },
-      "Play.Common/1.0.1": {
+      "Play.Common/1.0.2": {
         "dependencies": {
           "MassTransit.AspNetCore": "7.3.1",
           "MassTransit.RabbitMQ": "8.2.2",
@@ -2820,12 +2820,12 @@
       "path": "play.catalog.contracts/1.0.0",
       "hashPath": "play.catalog.contracts.1.0.0.nupkg.sha512"
     },
-    "Play.Common/1.0.1": {
+    "Play.Common/1.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-1DB9URr5Fm3N6ej8Qw96lQPnhpLEa9q5tZBfvrMv0vtybGfhcNzHMZqvdz7oRUX4kAT27BddQW3I0DuLnrWQrw==",
-      "path": "play.common/1.0.1",
-      "hashPath": "play.common.1.0.1.nupkg.sha512"
+      "sha512": "sha512-cte+y0N7gyU6b+y69oOEJqsEQNnn0uGsXefOovokV3K7FIh5zUXQBNOXlx9IycJ7Q9FWkiIhJTlhsXKLBXVSxA==",
+      "path": "play.common/1.0.2",
+      "hashPath": "play.common.1.0.2.nupkg.sha512"
     },
     "Polly/7.2.4": {
       "type": "package",
