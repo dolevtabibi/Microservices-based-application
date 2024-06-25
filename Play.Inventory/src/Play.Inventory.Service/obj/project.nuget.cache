@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iEpychDWZ4Q65/YixyNJnFaxKMqqscUGnTJBQcqhMuLAs04ZFAVlf5ePTCZSTN4tsf2vhJciulkjq0Dm0yppVA==",
+  "dgSpecHash": "efQY+9qu3izEnZ68CE/+S95BkGGVPBwxt0FPUu8YsUrc2bEF5XRn7EA26JqrXa0aEe31Qxyu7P0M3JV/95H8+Q==",
   "success": true,
   "projectFilePath": "D:\\projects\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,7 @@
     "C:\\Users\\dolev\\.nuget\\packages\\mongodb.driver.core\\2.25.0\\mongodb.driver.core.2.25.0.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\mongodb.libmongocrypt\\1.8.2\\mongodb.libmongocrypt.1.8.2.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\play.catalog.contracts\\1.0.0\\play.catalog.contracts.1.0.0.nupkg.sha512",
-    "C:\\Users\\dolev\\.nuget\\packages\\play.common\\1.0.1\\play.common.1.0.1.nupkg.sha512",
+    "C:\\Users\\dolev\\.nuget\\packages\\play.common\\1.0.2\\play.common.1.0.2.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\polly\\7.2.4\\polly.7.2.4.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
