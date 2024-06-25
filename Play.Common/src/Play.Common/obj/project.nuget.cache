@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "txyHhRqA8UMKf2FHlKxDh8lTMPiCKpcSQ/aT9aLASGJMkHekmjm5iRm3VyYKvdW+V+jCUh52pwQLN+D/JU9JwA==",
+  "dgSpecHash": "L7kD21Stq10ZsBXPpybS14oTPf2/9MCLiEWrfh88BIae09sL0CT66nEnz1vf6s0dDHbfhmxJ3J7DLuXi7D8MRQ==",
   "success": true,
-  "projectFilePath": "D:\\projects\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+  "projectFilePath": "D:\\projects\\Play.Common\\src\\play.common\\Play.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dolev\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\dolev\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

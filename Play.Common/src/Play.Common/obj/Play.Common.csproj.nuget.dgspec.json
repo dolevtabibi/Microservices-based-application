@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
+    "D:\\projects\\Play.Common\\src\\play.common\\Play.Common.csproj": {}
   },
   "projects": {
-    "D:\\projects\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.0",
+    "D:\\projects\\Play.Common\\src\\play.common\\Play.Common.csproj": {
+      "version": "1.0.2",
       "restore": {
-        "projectUniqueName": "D:\\projects\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectUniqueName": "D:\\projects\\Play.Common\\src\\play.common\\Play.Common.csproj",
         "projectName": "Play.Common",
-        "projectPath": "D:\\projects\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectPath": "D:\\projects\\Play.Common\\src\\play.common\\Play.Common.csproj",
         "packagesPath": "C:\\Users\\dolev\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\Play.Common\\src\\Play.Common\\obj\\",
+        "outputPath": "D:\\projects\\Play.Common\\src\\play.common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
