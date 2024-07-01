@@ -111,3 +111,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Ignore any path inside bin folder for specific project
+/src/Play.Catalog.Contracts/bin/**
