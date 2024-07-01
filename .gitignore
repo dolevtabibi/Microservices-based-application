@@ -11,9 +11,6 @@
 # User-specific files (Mono Auto Generated)
 mono_crash.*
 
-# Mono auto generated files
-mono_crash.*
-
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -36,8 +33,6 @@ bld/
 
 # Visual Studio 2019 and earlier
 .vs/
-# Uncomment if you have tasks that create static and dynamic resources
-# [Pp]ackage/
 
 # Visual Studio Code
 .vscode/
@@ -68,13 +63,6 @@ artifacts/
 # Ensure these files are NOT ignored if using Razor.
 #*.g.cs
 #*.g.i.cs
-
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
 
 # Logs
 *.log
